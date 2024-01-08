@@ -18,19 +18,19 @@ Included in the pdf file.
 
 #### Reflections or Learning Outcomes 
 
-##### Lessons Learned:
+#### Lessons Learned:
 
 1. **Understanding Metrics:** Familiarity with diverse evaluation metrics (e.g., Average Squared Error, Root Average Squared Error) aids in effectively assessing model performance.
 2. **Model Comprehension:** Acquiring the ability to interpret intricate models like decision trees or ensemble methods is crucial in understanding the underlying insights into customer behavior.
 3. **Data Preparation:** Vital steps in predictive modeling encompass data preparation, handling missing values, imputing data, and selecting variables.
 
-##### Challenges:
+#### Challenges:
 
 1. **Data Quality and Availability:** Not easy to find data that meets the requirements.
 2. **Interpreting Models Output:** Understanding and interpreting models outputs with only basic knowledege about the models
 3. **Avoiding Model Biases:** Striking a balance between model complexity to prevent overfitting or underfitting.
 
-##### Overcoming Challenges:
+#### Overcoming Challenges:
 
 1. **Data Cleaning and Exploration:** Rigorous data cleaning, imputation, and exploratory data analysis are key in identifying patterns and addressing data quality concerns.
 2. **Simplifying Model Interpretation:** Utilizing visualization tools aids in conveying model outputs effectively.
