@@ -17,11 +17,10 @@ Included in the pdf file.
 Included in the pdf file.
 
 #### Reflections or Learning Outcomes 
-Reflecting on the learning context derived from the case study involving customer churn prediction via SAS Enterprise Miner, several significant insights and encountered challenges have surfaced:
 
 ### Lessons Learned:
 
-1.**Understanding Metrics:** Familiarity with diverse evaluation metrics (e.g., Average Squared Error, Root Average Squared Error) aids in effectively assessing model performance.
+1. **Understanding Metrics:** Familiarity with diverse evaluation metrics (e.g., Average Squared Error, Root Average Squared Error) aids in effectively assessing model performance.
 2. **Model Comprehension:** Acquiring the ability to interpret intricate models like decision trees or ensemble methods is crucial in understanding the underlying insights into customer behavior.
 3. **Data Preparation:** Vital steps in predictive modeling encompass data preparation, handling missing values, imputing data, and selecting variables.
 
