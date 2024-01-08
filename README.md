@@ -1,30 +1,38 @@
 # Report of AA1 Case Study for Izzah Athirah binti Mohamad Radzi
 
 #### Project Overview 
-The objective of the case study is to analyze customer behavior to plan out marketing strategies. By understanding how customers interact with promotional efforts, businesses can optimize marketing campaigns for better engagement and conversion rates.
-##### The role of SAS e-Miner in this project is for the whole analysis, Talend Data Integration, and Talend Data Prep in the project
+The objective of the case study is to analyze customer behavior to plan out marketing strategies. By understanding how customers respond to promotional efforts, businesses can tailor marketing campaigns for better engagement and conversion rates. 
+I've used Talend Data Prep in the project to spot columns with missing values and to convert nominal data into binary data for 'Gender' column. SAS Enterprise Miner was being used for the whole analysis from imputing the missing values from the data set, to use Decision Tree, HP Forest as well as Gradient Boosting models and finally for models comparison.
 
+#### Data Files
+Included in the folder.
 
-#### Data Files: Included in the folder
+#### Code and Scripts
+Data mining models in SAS e-Miner is included in XML file.
 
+#### Documentation for Each Tool
+Included in the pdf file.
 
-Code and Scripts: Include any scripts or code used for data processing and analysis. This could be scripts for data cleaning with Talend Data Prep, integration workflows in Talend Data Integration, and data mining models in SAS e-Miner.
+#### Results and Analysis
+Included in the pdf file.
 
+#### Reflections or Learning Outcomes 
+Reflecting on the learning context derived from the case study involving customer churn prediction via SAS Enterprise Miner, several significant insights and encountered challenges have surfaced:
 
+### Lessons Learned:
 
-Documentation for Each Tool:
+1.**Understanding Metrics:** Familiarity with diverse evaluation metrics (e.g., Average Squared Error, Root Average Squared Error) aids in effectively assessing model performance.
+2. **Model Comprehension:** Acquiring the ability to interpret intricate models like decision trees or ensemble methods is crucial in understanding the underlying insights into customer behavior.
+3. **Data Preparation:** Vital steps in predictive modeling encompass data preparation, handling missing values, imputing data, and selecting variables.
 
- 
+### Challenges:
 
-SAS e-Miner: Documentation on how the data mining models were built, including decision trees, clustering, etc.
-Talend Data Integration: Detailed steps on how data was integrated from different sources.
-Talend Data Prep: Explanation of how the data was prepared, including data cleaning and transformation step.
+1. **Data Quality and Availability:** Not easy to find data that meets the requirements.
+2. **Interpreting Models Output:** Understanding and interpreting models outputs with only basic knowledege about the models
+3. **Avoiding Model Biases:** Striking a balance between model complexity to prevent overfitting or underfitting.
 
+### Overcoming Challenges:
 
-
-Results and Analysis: Include any results, such as model outputs, data integration logs, or data quality reports. Visualizations and a thorough analysis of these results are also crucial.
-
-
-
-Reflections or Learning Outcomes: Especially in a learning context, a section reflecting on what was learned, challenges faced, and how they were overcome would be beneficial.
- 
+1. **Data Cleaning and Exploration:** Rigorous data cleaning, imputation, and exploratory data analysis are key in identifying patterns and addressing data quality concerns.
+2. **Simplifying Model Interpretation:** Utilizing visualization tools aids in conveying model outputs effectively.
+3. **Robust Model Evaluation:** Conducting thorough model evaluation and hyperparameter tuning are critical to ensuring model robustness.
