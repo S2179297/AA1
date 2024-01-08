@@ -1,7 +1,7 @@
 # Report of AA1 Case Study for Izzah Athirah binti Mohamad Radzi
 
 #### Project Overview 
-##### The objective of the case study is to analyze customer behavior to plan out marketing strategies. By understanding how customers interact with promotional efforts, businesses can optimize marketing campaigns for better engagement and conversion rates.
+The objective of the case study is to analyze customer behavior to plan out marketing strategies. By understanding how customers interact with promotional efforts, businesses can optimize marketing campaigns for better engagement and conversion rates.
 ##### The role of SAS e-Miner in this project is for the whole analysis, Talend Data Integration, and Talend Data Prep in the project
 
 
